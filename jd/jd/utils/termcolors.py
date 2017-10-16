@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # # -*- coding: utf-8 -*-
-# author:Samray <samrayleung@gmail.com>
 color_names = ('black', 'red', 'green', 'yellow',
                'blue', 'magenta', 'cyan', 'white')
 foreground = dict([(color_names[x], '3%s' % x) for x in range(8)])
